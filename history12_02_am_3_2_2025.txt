@@ -1,0 +1,16 @@
+    1  ls
+    2  python FastAPI.py 
+    3  pip install fastapi
+    4  python3 -m pip install --upgrade pip
+    5  pip install fastapi
+    6  python FastAPI.py 
+    7  uvicorn main:app --reload
+    8  la
+    9  clear
+   10  uvicorn main:app --reload
+   11  python FastAPI.py 
+   12  python main.py 
+   13  clear
+   14  ls
+   15  history 
+   16  history > history12_02_am_3_2_2025.txt
